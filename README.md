@@ -7,8 +7,15 @@ I decided to build a text editor so users can create notes or add snippets. This
 
 ## Installation
 You can install this with git bash by typing in 'git clone Replace this with link' to wherever you want the repository to be installed on your computer.
+Using `npm i` will install the packages.
 
 ## Usage
+
+Open the root directory of the repository in your terminal or bash.
+Bundle the front-end code by entering npm run build in the command line.
+Start the server by entering npm run start in the command line.
+Go to the port on your local host.
+Click the "Install" button.
 This page has already been set up with render so it's as simple as viewing the page https://riley-text-editor.onrender.com and using it as needed.
 
 ## Credits
