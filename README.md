@@ -12,7 +12,7 @@ I decided to build a text editor so users can create notes or add snippets. This
 You can install this with git bash by typing in 'git clone _Replace this with link_' to wherever you want the repository to be installed on your computer.
 
 ## Usage
-To use this application you first want to open the root directory of the repository in your terminal or bash. You can start the bundle by typing in `npm run build`. From there you want to start the server with `npn run start`. You want to then go to the link that is being used. This is typically local host with the port number. From there you can view the page and use the features available.
+To use this application you first want to open the root directory of the repository in your terminal or bash. You can start the bundle by typing in `npm run build`. From there you want to start the server with `npn run start`. You want to then go to the link that is being used. This is typically local host with the port number. Once the page is up and you have the correct link you can then view the page and use the features available.
 
 
 ## Credits
